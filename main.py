@@ -1,3 +1,5 @@
+# 133. Solution & Walkthrough of the Higher Lower Game 6:19/31min
+
 # Generate a random account from the game data.
 
 # Format account data into printable format.
