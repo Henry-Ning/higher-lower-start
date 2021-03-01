@@ -1,3 +1,5 @@
+# Think about what to do next. 3-1
+
 from game_data import data
 import random
 from art import logo, vs
